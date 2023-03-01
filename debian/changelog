@@ -1,8 +1,8 @@
-txt2manwrap (1.1.14-0ubuntu22.04u3) UNRELEASED; urgency=medium
+txt2manwrap (1.1.14-0ubuntu22.04u3) jammy; urgency=medium
 
   * Update Debian files Copyright for 2023.
 
- -- Mark Grant <m.grant.prg@gmail.com>  Wed, 01 Mar 2023 15:14:21 +0000
+ -- Mark Grant <m.grant.prg@gmail.com>  Wed, 01 Mar 2023 15:15:16 +0000
 
 txt2manwrap (1.1.14-0ubuntu22.04u2) jammy; urgency=medium
 

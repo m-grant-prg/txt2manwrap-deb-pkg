@@ -1,0 +1,311 @@
+txt2manwrap (1.1.14-deb11u3) bullseye; urgency=medium
+
+  * Add Depends on OBS key signing package.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 25 Apr 2022 09:52:12 +0000
+
+txt2manwrap (1.1.14-deb11u2) bullseye; urgency=medium
+
+  * Update to compatibility level 13.
+  * Update Debian copyright to 2022.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 04 Apr 2022 11:15:12 +0000
+
+txt2manwrap (1.1.14-deb11u1) bullseye; urgency=medium
+
+  * New upstream release.
+  * Reviewed up to current standards version 4.5.1
+  * Correct license in copyright.
+  * Remove unnecessary .docs file.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sat, 27 Nov 2021 15:33:12 +0000
+
+txt2manwrap (1.1.13+rc1-deb11u1) bullseye; urgency=medium
+
+  * Create new bullseye branch.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 20 Aug 2021 08:52:02 +0100
+
+txt2manwrap (1.1.13+rc1-deb10u1) buster; urgency=medium
+
+  * New upstream development release.
+  * Update Copyright for 2021.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 05 Mar 2021 15:45:02 +0000
+
+txt2manwrap (1.1.13-deb10u1) buster; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 23 Oct 2020 10:50:06 +0100
+
+txt2manwrap (1.1.12-deb10u1) buster; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sat, 10 Oct 2020 15:33:52 +0100
+
+txt2manwrap (1.1.11-deb10u1) buster; urgency=medium
+
+  * New upstream release.
+    Update Copyright dates.
+    Update tarball virtual host.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sun, 02 Aug 2020 09:31:20 +0100
+
+txt2manwrap (1.1.10-deb10u1) buster; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sat, 14 Sep 2019 10:15:47 +0100
+
+txt2manwrap (1.1.9-deb10u1) buster; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 19 Aug 2019 10:19:03 +0100
+
+txt2manwrap (1.1.8-deb10u1) buster; urgency=medium
+
+  * First buster release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 19 Jul 2019 14:20:44 +0100
+
+txt2manwrap (1.1.8-deb9u1) stretch; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 21 Jun 2019 08:48:44 +0100
+
+txt2manwrap (1.1.7-deb9u1) stretch; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Wed, 01 May 2019 15:52:54 +0100
+
+txt2manwrap (1.1.6-deb9u1) stretch; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 29 Apr 2019 09:11:54 +0100
+
+txt2manwrap (1.1.5-deb9u1) stretch; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sun, 28 Apr 2019 10:22:48 +0100
+
+txt2manwrap (1.1.4-deb9u1) stretch; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 26 Mar 2019 09:34:36 +0000
+
+txt2manwrap (1.1.3-deb9u1) stretch; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sat, 23 Feb 2019 15:01:07 +0000
+
+txt2manwrap (1.1.1-deb9u1) stretch; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Wed, 13 Feb 2019 13:52:36 +0000
+
+txt2manwrap (1.0.14+rc3-deb9u1) stretch; urgency=medium
+
+  * New upstream development release.
+    Update watch file for new source path on local server hermes.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Wed, 06 Feb 2019 14:37:16 +0000
+
+txt2manwrap (1.0.14+rc2-deb9u1) stretch; urgency=medium
+
+  * New upstream development release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sun, 13 Jan 2019 13:16:31 +0000
+
+txt2manwrap (1.0.14+rc1-deb9u1) stretch; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sun, 13 Jan 2019 09:33:38 +0000
+
+txt2manwrap (1.0.14-deb9u2) stretch; urgency=medium
+
+  * Correct Debian docs inclusion.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 11 Jan 2019 14:45:48 +0000
+
+txt2manwrap (1.0.14-deb9u1) stretch; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 11 Jan 2019 14:31:48 +0000
+
+txt2manwrap (1.0.13-deb9u1) stretch; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 08 Jan 2019 14:59:59 +0000
+
+txt2manwrap (1.0.12+rc1-deb9u1) stretch; urgency=medium
+
+  * New upstream development release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 08 Jan 2019 09:33:56 +0000
+
+txt2manwrap (1.0.12-deb9u1) stretch; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sat, 05 Jan 2019 09:38:24 +0000
+
+txt2manwrap (1.0.11+rc3-deb9u1) stretch; urgency=medium
+
+  * New upstream development release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sat, 05 Jan 2019 08:20:02 +0000
+
+txt2manwrap (1.0.11+rc2-deb9u1) stretch; urgency=medium
+
+  * New upstream development release.
+    Update watch file to new standard version.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sat, 05 Jan 2019 07:56:24 +0000
+
+txt2manwrap (1.0.11+rc1-deb9u1) stretch; urgency=medium
+
+  * New upstream development release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 04 Jan 2019 15:31:29 +0000
+
+txt2manwrap (1.0.11-deb9u1) stretch; urgency=medium
+
+  * New upstream release.
+    Update watch file to new standard version.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 01 Nov 2018 15:33:24 +0000
+
+txt2manwrap (1.0.10-deb9u1) stretch; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sat, 20 Oct 2018 09:45:10 +0100
+
+txt2manwrap (1.0.9-deb9u1) stretch; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 28 Aug 2018 08:17:51 +0100
+
+txt2manwrap (1.0.8-deb9u3) stretch; urgency=medium
+
+  * Change architecture to all as this package is architecture independent.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 24 Aug 2018 10:12:07 +0100
+
+txt2manwrap (1.0.8-deb9u2) stretch; urgency=medium
+
+  * Accommodate change to directory where source tarball is found on hermes.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 19 Apr 2018 07:22:07 +0100
+
+txt2manwrap (1.0.8-deb9u1) stretch; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 13 Apr 2018 10:03:43 +0100
+
+txt2manwrap (1.0.7-mgent3) stretch; urgency=medium
+
+  * Remove unnecessary Depends ${shlibs:Depends} in control file.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 23 Feb 2018 15:38:58 +0000
+
+txt2manwrap (1.0.7-mgent2) stretch; urgency=medium
+
+  * Re-built with new build system.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 23 Feb 2018 14:10:58 +0000
+
+txt2manwrap (1.0.7-mgent1) stretch; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 20 Feb 2018 10:28:58 +0000
+
+txt2manwrap (1.0.6-mgent1) stretch; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 19 Feb 2018 10:08:08 +0000
+
+txt2manwrap (1.0.5-4-g647af8b-mgent1) stretch; urgency=medium
+
+  * New upstream development release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sat, 10 Feb 2018 14:31:15 +0000
+
+txt2manwrap (1.0.4-0mgent2) stretch; urgency=medium
+
+  * Correct copyright file to GPLv3.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 28 Nov 2017 11:07:49 +0100
+
+txt2manwrap (1.0.4-0mgent1) stretch; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 23 Oct 2017 10:23:49 +0100
+
+txt2manwrap (1.0.3-1mgent2) stretch; urgency=medium
+
+  * Update Debian standards to use to 3.9.8.
+    Correct Maintainer string in changelog.
+
+ -- Mark Grant Prg <m.grant.prg@gmail.com>  Sun, 20 Aug 2017 10:11:04 +0100
+
+txt2manwrap (1.0.3-1mgent1) stretch; urgency=medium
+
+  * Bump Debian version so launchpad can accommodate
+    change to new debian package name format.
+
+ -- Mark Grant PRG <m.grant.prg@gmail.com>  Mon, 14 Aug 2017 15:59:04 +0100
+
+txt2manwrap (1.0.3-0mgent1) stretch; urgency=medium
+
+  * Change to new debain package name format.
+
+ -- Mark Grant PRG <m.grant.prg@gmail.com>  Sun, 13 Aug 2017 09:23:04 +0100
+
+txt2manwrap (1.0.3-0ubuntu1) xenial; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant PRG <m.grant.prg@gmail.com>  Tue, 02 May 2017 09:35:04 +0100
+
+txt2manwrap (1.0.2-9-g6f0b1ef-0ubuntu1) xenial; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant PRG <m.grant.prg@gmail.com>  Sat, 29 Apr 2017 15:05:49 +0100
+
+txt2manwrap (1.0.2-0ubuntu1) vivid; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant Prg <m.grant.prg@gmail.com>  Fri, 23 Oct 2015 09:01:09 +0100
+
+txt2manwrap (1.0.1-0ubuntu5) vivid; urgency=low
+
+  * Bump version number.
+
+ -- Mark Grant Prg <m.grant.prg@gmail.com>  Fri, 09 Oct 2015 10:54:16 +0100
+
+txt2manwrap (1.0.1-0ubuntu1) vivid; urgency=low
+
+  * Initial release.
+
+ -- Mark Grant Prg <m.grant.prg@gmail.com>  Sat, 19 Sep 2015 12:58:16 +0100

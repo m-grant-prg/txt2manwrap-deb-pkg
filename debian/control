@@ -1,0 +1,17 @@
+Source: txt2manwrap
+Section: misc
+Priority: optional
+Maintainer: Mark Grant <m.grant.prg@gmail.com>
+Build-Depends: debhelper-compat (= 13), bash (>= 4.3), tar(>= 1.26), txt2man(>= 1.5)
+Standards-Version: 4.5.1
+Vcs-Git: https://github.com/m-grant-prg/txt2manwrap.git
+Vcs-Browser: https://github.com/m-grant-prg/txt2manwrap
+
+Package: txt2manwrap
+Architecture: all
+Depends: bash (>= 4.3), tar(>= 1.26), txt2man(>= 1.5), util-linux,
+	${misc:Depends},
+	mgrant-obs-deb-keyring
+Description: A txt2man wrapper.
+ Wraps the txt2man utility to enable parameter string manipulation from an
+ AutoMake script.

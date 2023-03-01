@@ -1,8 +1,8 @@
-txt2manwrap (1.1.14+deb11u4) UNRELEASED; urgency=medium
+txt2manwrap (1.1.14+deb11u4) bullseye; urgency=medium
 
   * Update Debian files Copyright for 2023.
 
- -- Mark Grant <m.grant.prg@gmail.com>  Wed, 01 Mar 2023 14:36:30 +0000
+ -- Mark Grant <m.grant.prg@gmail.com>  Wed, 01 Mar 2023 14:38:55 +0000
 
 txt2manwrap (1.1.14-deb11u3) bullseye; urgency=medium
 

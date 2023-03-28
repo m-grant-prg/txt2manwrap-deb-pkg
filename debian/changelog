@@ -1,6 +1,7 @@
 txt2manwrap (1.2.1-0ubuntu20.04u1) UNRELEASED; urgency=medium
 
   * Merge new upstream release.
+  * Update Copyright for 2023.
 
  -- Mark Grant <m.grant.prg@gmail.com>  Tue, 28 Mar 2023 13:55:20 +0100
 

@@ -1,9 +1,9 @@
-txt2manwrap (1.2.1) UNRELEASED; urgency=medium
+txt2manwrap (1.2.1+deb11u1) bullseye; urgency=medium
 
   * Merge new upstream release.
   * Update upstream Copyright for 2023.
 
- -- Mark Grant <m.grant.prg@gmail.com>  Tue, 28 Mar 2023 10:50:55 +0100
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 28 Mar 2023 10:52:55 +0100
 
 txt2manwrap (1.1.14+deb11u4) bullseye; urgency=medium
 

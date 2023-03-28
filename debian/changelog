@@ -1,3 +1,9 @@
+txt2manwrap (1.2.1-0ubuntu20.04u1) UNRELEASED; urgency=medium
+
+  * Merge new upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 28 Mar 2023 13:55:20 +0100
+
 txt2manwrap (1.1.14-0ubuntu20.04u2) focal; urgency=medium
 
   * Update Debian files Copyright for 2023.

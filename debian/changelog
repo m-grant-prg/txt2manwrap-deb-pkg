@@ -1,8 +1,8 @@
-txt2manwrap (1.3.0+deb13u1) UNRELEASED; urgency=medium
+txt2manwrap (1.3.0+deb13u1) testing; urgency=medium
 
   * Create testing branch.
 
- -- Mark Grant <m.grant.prg@gmail.com>  Fri, 23 Jun 2023 10:40:32 +0100
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 23 Jun 2023 10:41:25 +0100
 
 txt2manwrap (1.3.0+deb12u1) bookworm; urgency=medium
 

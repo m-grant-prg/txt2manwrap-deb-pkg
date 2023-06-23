@@ -1,6 +1,7 @@
 txt2manwrap (1.3.0-0ubuntu22.04u1) UNRELEASED; urgency=medium
 
   * Merge new upstream release.
+  * Update watch file to support ~.
 
  -- Mark Grant <m.grant.prg@gmail.com>  Fri, 23 Jun 2023 13:51:17 +0100
 

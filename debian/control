@@ -10,8 +10,8 @@ Vcs-Browser: https://github.com/m-grant-prg/txt2manwrap
 Package: txt2manwrap
 Architecture: all
 Depends: bash, tar, txt2man, util-linux,
-	${misc:Depends},
-	mgrant-obs-deb-keyring
+	mgrant-obs-deb-keyring,
+	${misc:Depends}
 Description: A txt2man wrapper.
  Wraps the txt2man utility to enable parameter string manipulation from an
  AutoMake script.

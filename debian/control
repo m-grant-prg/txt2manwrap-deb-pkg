@@ -2,7 +2,7 @@ Source: txt2manwrap
 Section: misc
 Priority: optional
 Maintainer: Mark Grant <m.grant.prg@gmail.com>
-Build-Depends: debhelper-compat (= 13), bash, tar, txt2man
+Build-Depends: debhelper-compat (= 13), bash (>= 5.2), tar (>=1.34), txt2man
 Standards-Version: 4.5.1
 Vcs-Git: https://github.com/m-grant-prg/txt2manwrap.git
 Vcs-Browser: https://github.com/m-grant-prg/txt2manwrap

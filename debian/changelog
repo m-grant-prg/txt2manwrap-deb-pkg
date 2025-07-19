@@ -1,3 +1,9 @@
+txt2manwrap (1.3.1+deb13u3) trixie; urgency=medium
+
+  * New debian release trixie
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sat, 19 Jul 2025 15:59:44 +0100
+
 txt2manwrap (1.3.1+deb13u2) trixie; urgency=medium
 
   * Silence lintian changelog-file-missing-explicit-entry warning

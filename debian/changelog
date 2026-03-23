@@ -1,3 +1,9 @@
+txt2manwrap (1.4.0+ubuntu26.04u1) resolute; urgency=medium
+
+  * New release Resolute (26.04)
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 23 Mar 2026 14:49:13 +0000
+
 txt2manwrap (1.4.0+ubuntu24.04u1) noble; urgency=medium
 
   * New upstream release
